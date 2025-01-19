@@ -5,6 +5,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a sucker for general knowledge and trivia
 
+- 🚀 Stuff I've worked on/currently work on is pinned below, you're welcome to take a look ⏬
+
 <!---
 idshay16/idshay16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
